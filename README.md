@@ -65,4 +65,4 @@ And run grunt command to create files in /dist folder.
 <pre>grunt</pre>
 
 ## What's new
-Please refer to [the release page](https://github.com/nnattawat/flip/releases)
+Please refer to the link below for more information [the release page](https://github.com/nnattawat/flip/releases)
