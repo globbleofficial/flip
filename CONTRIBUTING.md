@@ -12,4 +12,6 @@
  * If you're interested in getting your changes in and/or issue resolved, it's extremely likely you're going to have to have some discussion about it before that happens. So don't just drop something on us and leave and expect that something will come of it.
  
 ##### Discussion before code
- * If you don't want to waste your time writing code that might not be used, it's probably best to make an issue and discuss it with us first before you start writing. 
+ * If you don't want to waste your time writing code that might not be used, it's probably best to make an issue and discuss it with us first before you start writing.
+
+ * how you  are stating the fact that this is actual a writing code that is incredible easy to learn
