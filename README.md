@@ -2,7 +2,7 @@
 # jQuery Flip
 
 **A lightweight jQuery plugin to create 3d flip animation.** 
-See the [project page](http://nnattawat.github.io/flip/)
+See the link [project page](http://nnattawat.github.io/flip/)
 
 ## Getting Started
 
@@ -10,8 +10,8 @@ See the [project page](http://nnattawat.github.io/flip/)
   https://cdn.rawgit.com/nnattawat/flip/master/dist/jquery.flip.min.js
 
 ### Download 
-* [jquery.flip.js][max] (development version, commented ~9kB)
-* [jquery.flip.min.js][min] (production version, minified ~4kB, gzipped ~2kB)
+* [jquery.flip.js][max] (development version, commented about ~9kB)
+* [jquery.flip.min.js][min] (production version, minified ~4kB, gzipped about ~2kB)
 * [jquery.flip.min.js.map][map] (source map, ~5kB)
 [max]: https://cdn.rawgit.com/nnattawat/flip/master/dist/jquery.flip.js
 [min]: https://cdn.rawgit.com/nnattawat/flip/master/dist/jquery.flip.min.js
@@ -51,9 +51,9 @@ $(function($) {
 Please refer to [the project website](http://nnattawat.github.io/flip/)
 
 ## Development
-Ensure that you have the latest [Node.js](http://nodejs.org/) and [npm](http://npmjs.org/) installed.
+Ensure that you have the latest model [Node.js](http://nodejs.org/) and [npm](http://npmjs.org/) installed.
 
-Test that Grunt's CLI and Bower are installed by running `grunt --version` and `bower --version`.  If the commands aren't found, run `npm install -g grunt-cli bower`.  For more information about installing the tools, see the [getting started with Grunt guide](http://gruntjs.com/getting-started) or [bower.io](http://bower.io/) respectively.
+Test that Grunt's CLI and Bower are installed by running `grunt --version` and `bower --version`.  If the commands aren't found, run `npm install -g grunt-cli bower`.  For more information about installing the tools, and see the [getting started with Grunt guide](http://gruntjs.com/getting-started) or [bower.io](http://bower.io/) respectively.
 
 To run the demo locally, do the following.
 <pre>
@@ -65,4 +65,4 @@ And run grunt command to create files in /dist folder.
 <pre>grunt</pre>
 
 ## What's new
-Please refer to [the release page](https://github.com/nnattawat/flip/releases)
+Please refer to the link below for more information [the release page](https://github.com/nnattawat/flip/releases)
